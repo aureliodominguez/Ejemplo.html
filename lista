@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista</title>
+</head>
+<body>
+    <h1>Salmorejo</h1>
+    <ul>
+        <li>1 kg de tomates </li>
+
+        <li>200 grs de pan</li>
+
+        <li>100 grs de aceite de oliva</li>
+
+        <li>1 diente de ajo</li>
+
+        <li>10 grs de sal</li>
+    </ul>
+        <br>
+
+    <ol>
+        <li>Limpiar y triturar los tomates</li>
+        <li>Colar para quitar la piel y las pepitas</li>
+        <li>volver a triturar añadiendole</li>
+            <br>
+            <ol type="a">
+                <li> el pan</li>
+                <li> El aceite</li>
+                <li> Los ajos</li>
+                <li> La sal</li>
+            </ol>
+            <li>Decorar con huevo duro picado y trocitos de jamón ibérico</li>
+    </ol>
+
+
+
+
+</body>
+</html>
