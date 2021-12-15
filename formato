@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>formato</title>
+</head>
+<body>
+    <h1>En las noches claras</h1>
+    
+        <h2><i>(Gloria Fuentes)</i></h2>
+    <p>En las noches <u>claras.</u></p> 
+    <p>resuelvo el <b>problema</b> de la <u>soledad del ser.</u></p>
+    <p>invito a la luna y con mi sombra <b><i><u>somos tres.</u></i></b></p>
+</body>
+</html>
